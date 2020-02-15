@@ -6,7 +6,7 @@ Learn more or give us feedback
 
 <?php
   echo "Hello  from PHP World!";
-  echo "Version 5";
+  echo "Version 8";
 ?>
 
 </body>
